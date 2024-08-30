@@ -1,5 +1,5 @@
 :root{
-    --cor-fundo: #01080E ;
+    --cor-fundo: #492269 ;
     --cor-principal: #1c1e36 ;
     --cor-secundaria: #212333; 
     --cor-destaque: #6e2bc7;
@@ -40,4 +40,4 @@ button {
 button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
-}sty
+}
